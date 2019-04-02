@@ -7,7 +7,7 @@
 * Neural MF based scoring
 
 ## Ohter methods implemented
-NOTE! We do not use cos similarity. Instead, we use "[Neural MF](https://dl.acm.org/citation.cfm?id=3052569)".
+NOTE! We do not use the cos similarity. Instead, we use "[Neural MF](https://dl.acm.org/citation.cfm?id=3052569)".
 * "[AP CNN](https://arxiv.org/abs/1412.3555)"
 * "[ABCNN](https://arxiv.org/pdf/1512.05193.pdf)" 
 
