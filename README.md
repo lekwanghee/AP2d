@@ -1,6 +1,6 @@
 # AP2d
 
-## <Attentive pooling with dilated conv2d >
+## Attentive pooling with dilated conv2d model
 * BPE (byte pair encoding) - We use the codes in https://github.com/rsennrich/subword-nmt
 * W/o pre-trained embeddings
 * 4 dilated (2-dimensional) convolutional layers
