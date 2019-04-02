@@ -6,6 +6,10 @@
 * 4 dilated (2-dimensional) convolutional layers
 * Neural MF based scoring
 
+## Environment
+* Pytorch
+* Jupyter notebook
+
 ## Ohter methods implemented
 NOTE! We do not use the cos similarity. Instead, we use "[Neural MF](https://dl.acm.org/citation.cfm?id=3052569)".
 * "[AP CNN](https://arxiv.org/abs/1412.3555)"
